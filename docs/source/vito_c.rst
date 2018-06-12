@@ -1,11 +1,10 @@
 .. _vito_a:
 
 
-Primeiro Cenário do Jogo
+Terceiro Cenário do Jogo
 ========================
 
-Vamos começar importando o módulo vitollino para criar um jogo baseado na biblioteca Vitollino.
- Neste módulo vamos usar a classe Cena, que vai permitir a criação da primeira cena, o lago das tartarugas:
+Nesse módulo veremos os labirintos:
 
 .. image:: /_static/tartarugas.png
 
@@ -25,5 +24,5 @@ Vamos começar importando o módulo vitollino para criar um jogo baseado na bibl
 .. moduleauthor:: Carlo Oliveira <carlo@nce.ufrj.br>
 
 .. note::
-    Ainda é um programa bem simples.
+    Marina Micas iniciando o tutorial interativo.
 
